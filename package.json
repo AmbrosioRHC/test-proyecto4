@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "proyectofinal",
   "private": true,
   "version": "0.0.0",
@@ -22,5 +23,15 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "vite": "^5.2.11"
+=======
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "bootstrap": "^5.3.3",
+    "react-router-dom": "^6.23.0"
+>>>>>>> f63d5b2214f0c019bef337897ed761168823fc62
   }
 }
